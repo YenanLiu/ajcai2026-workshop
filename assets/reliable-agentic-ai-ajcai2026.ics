@@ -1,0 +1,23 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Reliable Agentic AI//AJCAI 2026 Workshop//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:reliable-agentic-ai-20261127@ajcai2026-reliable-agents.chatgpt.site
+DTSTAMP:20261021T061732Z
+DTSTART:20261126T200000Z
+DTEND:20261126T233000Z
+SUMMARY:Reliable Agentic AI - AJCAI 2026 Workshop
+LOCATION:Auckland\, New Zealand - workshop room to be announced
+DESCRIPTION:From Foundation Models to Real-World Systems.\nProvisional pr
+ ogramme: 09:00 opening\; 09:15 Xin Yu\; 09:50 Xun Li\; 10:25 coffee and
+  networking\; 10:40 Huaming Chen\; 11:15 audience questions\; 11:30-12:3
+ 0 panel.\nEach invited talk: 30 minutes + 5 minutes Q&A. All times in Au
+ ckland NZDT (UTC+13).
+SEQUENCE:1
+STATUS:TENTATIVE
+TRANSP:OPAQUE
+URL:https://ajcai2026-reliable-agents.almond-curry-4561.chatgpt.site/
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,47 @@
+{
+  "source_page": "https://ajcai26.org/",
+  "credits_as_stated_by_source": "Photos via Unsplash and Pexels",
+  "photographer": "Not individually specified by conference page",
+  "assets": [
+    {
+      "filename": "auckland_1.jpg",
+      "path": "/workspace/scratch/11446a33f611/ajcai-research-assets/auckland_1.jpg",
+      "source_url": "https://ajcai26.org/imgs/auckland_1.jpg",
+      "dimensions": [
+        1920,
+        1279
+      ],
+      "size_bytes": 439945
+    },
+    {
+      "filename": "auckland_2.jpg",
+      "path": "/workspace/scratch/11446a33f611/ajcai-research-assets/auckland_2.jpg",
+      "source_url": "https://ajcai26.org/imgs/auckland_2.jpg",
+      "dimensions": [
+        1920,
+        1272
+      ],
+      "size_bytes": 337230
+    },
+    {
+      "filename": "auckland_3.jpg",
+      "path": "/workspace/scratch/11446a33f611/ajcai-research-assets/auckland_3.jpg",
+      "source_url": "https://ajcai26.org/imgs/auckland_3.jpg",
+      "dimensions": [
+        1919,
+        1282
+      ],
+      "size_bytes": 342957
+    },
+    {
+      "filename": "auckland_4.jpg",
+      "path": "/workspace/scratch/11446a33f611/ajcai-research-assets/auckland_4.jpg",
+      "source_url": "https://ajcai26.org/imgs/auckland_4.jpg",
+      "dimensions": [
+        1920,
+        1280
+      ],
+      "size_bytes": 289494
+    }
+  ]
+}

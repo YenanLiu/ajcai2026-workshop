@@ -1,0 +1,12 @@
+[
+  {
+    "family": "Montserrat",
+    "source": "https://fonts.gstatic.com/s/montserrat/v31/JTUSjIg1_i6t8kCHKm459Wlhyw.woff2",
+    "filename": "montserrat-latin-variable.woff2"
+  },
+  {
+    "family": "Roboto",
+    "source": "https://fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBA.woff2",
+    "filename": "roboto-latin-variable.woff2"
+  }
+]

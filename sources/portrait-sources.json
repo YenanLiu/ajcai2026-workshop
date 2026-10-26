@@ -1,0 +1,47 @@
+[
+  {
+    "path": "/workspace/scratch/11446a33f611/ajcai-people-assets/xin-yu.png",
+    "url": "https://xinyu-au.github.io/images/profile.png",
+    "bytes": 1472547,
+    "mime": "image/png"
+  },
+  {
+    "path": "/workspace/scratch/11446a33f611/ajcai-people-assets/chen-liu.webp",
+    "url": "https://profiles.uts.edu.au/Chen.Liu/thumbnail",
+    "bytes": 9012,
+    "mime": "image/webp"
+  },
+  {
+    "path": "/workspace/scratch/11446a33f611/ajcai-people-assets/huaming-chen.webp",
+    "url": "https://profiles.sydney.edu.au/huaming.chen/thumbnail",
+    "bytes": 3600,
+    "mime": "image/webp"
+  },
+  {
+    "path": "/workspace/scratch/11446a33f611/ajcai-people-assets/zijing-shi.jpg",
+    "url": "https://zijing-shi.github.io/assets/img/avatar.png",
+    "bytes": 5276202,
+    "mime": "image/png"
+  },
+  {
+    "path": "/workspace/scratch/11446a33f611/ajcai-people-assets/liying-yang-candidate.jpg",
+    "url": "https://wm-fs2.must.edu.mo/group1/M00/08/9E/rBCDo2h59q-AcHeTAACvpZI6KGM169.jpg",
+    "bytes": 44965,
+    "mime": "image/jpeg"
+  },
+  {
+    "path": "/workspace/scratch/11446a33f611/ajcai-people-assets/xun-li-talk-poster-not-portrait.png",
+    "url": "https://robotics.sydney.edu.au/wp-content/uploads/2025/06/Talk_Img.png",
+    "source_page": "https://robotics.sydney.edu.au/seminar-from-pixels-to-impact-building-vision-systems-for-agriculture-ecology-and-human-wellbeing-10th-july-100pm/",
+    "bytes": 425378,
+    "mime": "image/png",
+    "note": "Not a portrait. Talk poster. Do not use as headshot."
+  },
+  {
+    "path": "/workspace/scratch/11446a33f611/ajcai-people-assets/xun-li.jpg",
+    "url": "https://www.visualimpact.org.au/sydney-2026-media/Xun%20Li_CROP.jpg",
+    "source_page": "https://visualimpact.org.au/speaker-profile-xun-li",
+    "bytes": 55038,
+    "mime": "image/jpeg"
+  }
+]
